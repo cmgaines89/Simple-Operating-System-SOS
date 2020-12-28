@@ -8,7 +8,7 @@ The simulation is comprised of a group of files which are all required to run th
   
   1.	Choose an application amongst the buttons at the top of the window:
 	
- 		a.	GUI Apps – Starts two GUI counter apps with counters of 5 seconds
+    a.	GUI Apps – Starts two GUI counter apps with counters of 5 seconds
     b.	Msg App – Starts two Processes that send a created message to a queue. The sender sends 10 messages then exits. There is no GUI for this process, but message traces will         be generated.
     c.	Disk App – Starts a process that writes to the virtual disk and reads what was written back from the virtual disk. There is no GUI for this process, but message traces           will be generated.
   
