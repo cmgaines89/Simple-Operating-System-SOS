@@ -1,7 +1,5 @@
 # Simple-Operating-System-SOS
 
-This Project was written for a school project for my Operating Systems course.
-
 A Simple Operating System that provides processes that use threads, a simulation of memory by using an array of objects, a timer which uses a thread and sleep statements, a disk also using thread and sleep statements, and hardware services such as creating processes, running processes, system calls, access to memory, and access to the disk.
 
 The simulation is comprised of a group of files which are all required to run the Operating System. To run the Simple Operating System all files must be compiled into “.class” files. Then you may run the operating system by running the “SIM.java” class which will bring up a GUI interface for the user to interact with the operating system (it is best to run this program as an applet). When running the Operating System there will be several options to choose from:
